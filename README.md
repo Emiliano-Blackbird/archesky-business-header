@@ -1,9 +1,6 @@
 # ArcheSky Business Agency
 
-<p align="center">
-  <a <img src="https://github.com/user-attachments/assets/505e65e1-e506-41d6-bd9c-baf9774588d6" alt="real_view_page">
-  </a>
-</p>
+![ArcheSky Logo](img/logo_archesky.png)
 
 Landing page responsive para ArcheSky Business Agency, enfocada en soluciones empresariales inteligentes.
 

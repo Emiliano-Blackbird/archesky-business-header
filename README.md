@@ -1,7 +1,7 @@
 # ArcheSky Business Agency
 
 <p align="center">
-  <a <img src="https://github.com/user-attachments/assets/b1079c49-0201-4a2f-bfa6-cbd4e8f052c0" alt="real_view_page">
+  <a <img src="https://github.com/user-attachments/assets/505e65e1-e506-41d6-bd9c-baf9774588d6" alt="real_view_page">
   </a>
 </p>
 
@@ -24,3 +24,5 @@ Landing page responsive para ArcheSky Business Agency, enfocada en soluciones em
 |------------|----------------|
 | **HTML5**  | Estructura semántica |
 | **CSS3**   | Estilos personalizados |
+
+![real_view](https://github.com/user-attachments/assets/505e65e1-e506-41d6-bd9c-baf9774588d6)

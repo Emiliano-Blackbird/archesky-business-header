@@ -26,6 +26,7 @@ Landing page responsive para ArcheSky Business Agency, enfocada en soluciones em
 
 ## 👨‍💻 Author
 
- - Emiliano Blackbird (Emiliano Perez Paponi)
- - Full Stack Developer
- - GitHub: @Emiliano-Blackbird
+    Emiliano Perez Paponi
+    Full Stack Developer
+    GitHub: @Emiliano-Blackbird
+    Mail: EmilianoPerezPaponi@gmail.com
